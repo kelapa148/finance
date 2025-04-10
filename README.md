@@ -6,7 +6,7 @@
 | **Lending** | Pemberian Pinjaman | Memberikan dana kepada pihak lain dengan imbal hasil bunga atau bagi hasil. | Uang/modal | Bank, Fintech P2P, Koperasi Syariah |
 | **Borrowing** | Peminjaman | Menerima dana dengan kewajiban mengembalikan + bunga/bagi hasil. | Uang/modal | Individu, Korporasi, Pemerintah |
 | **Investing** | Berinvestasi | Menanam modal dalam aset produktif untuk keuntungan jangka panjang. | Saham, obligasi, properti, reksadana | Investor, Manajer Investasi, Perusahaan Aset |
-| **Hedging** | Lindung Nilai | Melindungi aset dari risiko fluktuasi harga menggunakan instrumen derivatif. | Kontrak derivatif (options, futures), Valas, Emas | Perusahaan, Investor Institusi |
+| **Hedging** | Lindung Nilai | Melindungi aset dari risiko fluktuasi harga menggunakan instrumen derivatif. | Kontrak [derivatif](https://id.wikipedia.org/wiki/Derivatif) (options, futures), Valas, Emas | Perusahaan, Investor Institusi |
 | **Speculating** | Spekulasi | Membeli/menjual aset dengan harapan mendapat keuntungan dari volatilitas harga. | Saham, mata uang kripto, komoditas | Trader, Hedge Fund, Individu |
 | **Intermediation** | Intermediasi Keuangan | Menjadi perantara antara pihak surplus dana dan defisit dana. | Dana, transaksi | Bank, Fintech, Koperasi, Lembaga Pembiayaan |
 | **Switching & Clearing** | Jaringan Switching & Kliring | Memproses transaksi antar bank atau institusi keuangan. | Data transaksi | Rintis, ALTO, BI-FAST, Jalin, Artajasa, **KSEI** |
