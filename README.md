@@ -19,7 +19,7 @@
 | **Insurance / Risk Pooling** | Asuransi / Pengelolaan Risiko | Mengalihkan risiko keuangan ke pihak penanggung dengan premi. | Aset, jiwa, kesehatan | Perusahaan Asuransi, Reasuransi |
 | **Donating** | Donasi / Hibah | Memberikan dana atau aset tanpa mengharapkan imbalan. | Uang, barang, aset | Individu, Lembaga Sosial, Yayasan |
 | **Zakat / Infaq / Sedekah** | Zakat / Infaq / Sedekah | Kewajiban agama untuk berbagi harta kepada yang berhak. | Harta (uang, komoditas) | Muzakki, Lembaga Zakat (Baznas, Dompet Dhuafa) |
-| **Islamic Financial Products** | Produk Keuangan Syariah | Layanan keuangan sesuai prinsip Islam (tanpa riba). | Sukuk, Murabaha, Qardh, Takaful | Bank Syariah, Lembaga Pembiayaan Syariah |
+| **Islamic Financial Products** | Produk Keuangan Syariah | Layanan keuangan sesuai prinsip Islam (tanpa riba). | [Sukuk](https://id.wikipedia.org/wiki/Surat_Berharga_Syariah_Negara), Murabaha, Qardh, Takaful | Bank Syariah, Lembaga Pembiayaan Syariah |
 | **Subsidizing** | Subsidi | Bantuan keuangan untuk menurunkan biaya produk/jasa tertentu. | Harga produk, tarif listrik, BBM | Pemerintah, Lembaga Internasional (IMF, ADB) |
 | **Crowdfunding** | Patungan Publik | Mengumpulkan dana dari masyarakat untuk proyek/kebutuhan tertentu. | Dana proyek | Platform Crowdfunding (Kitabisa, Kickstarter) |
 | **CSR / Impact Finance** | Tanggung Jawab Sosial / Pembiayaan Berdampak | Pendanaan untuk kegiatan sosial/lingkungan. | Proyek sosial/lingkungan | Perusahaan, LSM, Dana Abadi (Endowment Fund) |
@@ -39,7 +39,7 @@
 | **Tax Advisory & Compliance** | Konsultasi & Kepatuhan Pajak | Merencanakan dan memastikan kepatuhan terhadap regulasi perpajakan. | Data pajak | Konsultan Pajak, Kemenkeu/CoreTax |
 | **Peer-to-Peer Insurance** | Asuransi Peer-to-Peer | Model asuransi berbasis komunitas dengan risiko dibagi anggota. | Risiko kolektif | Platform Asuransi (Lemonade, Friendsurance) |
 | **Decentralized Finance (DeFi)** | Keuangan Terdesentralisasi | Layanan keuangan berbasis blockchain tanpa perantara (pinjam, simpan, invest). | Aset kripto, smart contract | Protokol DeFi (Uniswap, Aave) |
-| **Government Securities Trading** | Perdagangan Surat Berharga Negara | Membeli/menjual obligasi atau SBN untuk pendapatan tetap. | SUN, SBN | Investor, Bank, Perusahaan Sekuritas |
+| **Government Securities Trading** | Perdagangan Surat Berharga Negara | Membeli/menjual obligasi atau SBN untuk pendapatan tetap. | [SUN](https://id.wikipedia.org/wiki/Surat_Utang_Negara), SBN | Investor, Bank, Perusahaan Sekuritas |
 | **Stock Exchange Operations** | Operasi Bursa Efek | Memfasilitasi perdagangan saham, obligasi, dan instrumen keuangan terdaftar. | Saham, obligasi, derivatif | [**BEI**](https://www.idx.co.id/id), **Nasdaq**, NYSE, OJK, [SEC](https://id.wikipedia.org/wiki/Komisi_Sekuritas_dan_Bursa_Amerika_Serikat) |
 | **Central Securities Depository** | Kustodian Sentral Efek | Mengelola kepemilikan efek elektronik dan proses penyelesaian transaksi. | Saham, obligasi | **KSEI**, Euroclear, DTCC |
 | **Market Infrastructure Services** | Layanan Infrastruktur Pasar | Menyediakan sistem kliring, penyelesaian, dan teknologi pendukung pasar. | Data transaksi, efek | **KSEI**, LCH.Clearnet, [BEI Clearing](https://www.idclear.co.id/) |
