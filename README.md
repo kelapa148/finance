@@ -25,7 +25,7 @@
 | **CSR / Impact Finance** | Tanggung Jawab Sosial / Pembiayaan Berdampak | Pendanaan untuk kegiatan sosial/lingkungan. | Proyek sosial/lingkungan | Perusahaan, LSM, Dana Abadi (Endowment Fund) |
 | **Cryptocurrency Trading** | Perdagangan Kripto | Membeli/menjual aset digital berbasis blockchain. | Bitcoin, Ethereum, stablecoin, NFT | Exchange (Tokocrypto, Binance, OKX), Trader, NFT Marketplace |
 | **Microfinance** | Pembiayaan Mikro | Memberikan pinjaman kecil kepada UMKM atau masyarakat berpenghasilan rendah. | Modal usaha | Lembaga Keuangan Mikro (BRI Unit, Amartha) |
-| **Factoring** | Anjak Piutang | Membeli piutang perusahaan untuk mempercepat arus kas. | Piutang usaha | Perusahaan Anjak Piutang, Bank |
+| **Factoring** | Anjak Piutang | Membeli piutang perusahaan untuk mempercepat arus kas. | Piutang usaha, Faktur/Invoice | Perusahaan Anjak Piutang, Bank, Fintech |
 | **Leasing** | Sewa Guna Usaha | Menyediakan aset fisik (mesin, kendaraan) dengan sistem sewa. | Aset fisik | Perusahaan Leasing, Bank |
 | **Venture Capital (VC)** | Modal Ventura | Pendanaan ekuitas untuk startup berpotensi tinggi. | Saham perusahaan | Perusahaan VC (East Ventures, AC Ventures) |
 | **Custodian Services** | Layanan Kustodian | Menyimpan dan mengamankan aset finansial (saham, obligasi). | Aset finansial | Bank Kustodian (BNP Paribas, Citi), **KSEI** |
@@ -49,4 +49,5 @@
 | **Payment Services & Transaction Facilitation**	| Proses Pembayaran & Fasilitasi Transaksi	| Mengelola transaksi penjualan, pembayaran, dan integrasi data keuangan.	| Transaksi penjualan, data pembayaran	| Merchant (UMKM, Restoran, Retail), Platform POS (Moka POS, ESB), Bank/Payment Gateway |
 | **Mergers & Acquisitions (M&A)** |	Merger & Akuisisi |	Penggabungan/pengambilalihan perusahaan untuk ekspansi/efisiensi.	| Saham, aset perusahaan	| Bank Investasi, Konsultan M&A |
 | **Secondary Private Markets**	| Pasar Sekunder Privat	| Perdagangan kepemilikan aset privat (saham perusahaan, kepemilikan dana private equity) antar investor, tanpa melibatkan emiten asli.	| Saham perusahaan privat, saham karyawan, kepemilikan dana PE | Investor Institusi, [Investor terakreditasi](https://en.wikipedia.org/wiki/Accredited_investor) / Angle Investor, Dana Sekunder, Platform Pasar Sekunder (Forge Global, EquityZen) |
+| **Carbon Credit Trading** |	Perdagangan Kredit Karbon |	Jual-beli izin emisi karbon untuk mendukung keberlanjutan.	| Kredit karbon	| Bursa Karbon (Xpansiv, Climate Impact X) |
 | **Pawnbroking / Collateralized Lending** |	Gadai	| Memberikan pinjaman jangka pendek dengan jaminan barang bergerak (emas, elektronik, kendaraan).	| Barang bergerak (jaminan)	| Pegadaian, Lembaga Gadai Swasta |
