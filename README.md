@@ -14,7 +14,7 @@
 | **Underwriting** | Penjaminan Emisi Efek | Menjamin penjualan saham/obligasi oleh emiten kepada investor. | Saham, obligasi | Bank Investasi, Perusahaan Sekuritas |
 | **Arbitrage** | Arbitrase | Memanfaatkan perbedaan harga aset di pasar berbeda untuk mendapat keuntungan. | Saham, mata uang, komoditas | Trader Profesional, algoritma trading, hedge Fund/investor terakreditasi |
 | **Advising & Portfolio Management** | Konsultasi & Manajemen Portofolio | Memberikan saran dan mengelola aset investasi klien. | Portofolio keuangan | Konsultan Keuangan, Manajer Investasi, AI/Robo-Advisor |
-| **Accounting & Reporting** | Akuntansi & Pelaporan | Mencatat, mengklasifikasi, dan melaporkan transaksi keuangan. | Data keuangan | Akuntan, Auditor, Software Akuntansi (Zahir, Accurate) |
+| **Accounting & Reporting** | Akuntansi & Pelaporan | Mencatat, mengklasifikasi, dan melaporkan transaksi keuangan. | Data keuangan | Akuntan, Auditor |
 | **Insurance / Risk Pooling** | Asuransi / Pengelolaan Risiko | Mengalihkan risiko keuangan ke pihak penanggung dengan premi. | Aset, jiwa, kesehatan | Perusahaan Asuransi, Reasuransi |
 | **Donating** | Donasi / Hibah | Memberikan dana atau aset tanpa mengharapkan imbalan. | Uang, barang, aset | Individu, Lembaga Sosial, Yayasan |
 | **Zakat / Infaq / Sedekah** | Zakat / Infaq / Sedekah | Kewajiban agama untuk berbagi harta kepada yang berhak. | Harta (uang, komoditas) | Muzakki, Lembaga Zakat (Baznas, Dompet Dhuafa) |
