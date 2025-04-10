@@ -14,6 +14,7 @@
 | **Underwriting** | Penjaminan Emisi Efek | Menjamin penjualan saham/obligasi oleh emiten kepada investor. | Saham, obligasi | Bank Investasi, Perusahaan Sekuritas |
 | **Arbitrage** | Arbitrase | Memanfaatkan perbedaan harga aset di pasar berbeda untuk mendapat keuntungan. | Saham, mata uang, komoditas | Trader Profesional, algoritma trading, hedge Fund/investor terakreditasi |
 | **Advising & Portfolio Management** | Konsultasi & Manajemen Portofolio | Memberikan saran dan mengelola aset investasi klien. | Portofolio keuangan | Konsultan Keuangan, Manajer Investasi, AI/Robo-Advisor |
+| **Wealth Management** |	Manajemen Kekayaan	| Pengelolaan kekayaan menyeluruh (investasi, pajak, pensiun, asuransi, warisan) untuk klien high-net-worth individuals (HNWI) atau institusi. |	Portofolio keuangan, aset, tujuan finansial	| Bank Swasta (Private Banking), Manajer Kekayaan, Konsultan Keuangan, Robo-Advisor |
 | **Accounting & Reporting** | Akuntansi & Pelaporan | Mencatat, mengklasifikasi, dan melaporkan transaksi keuangan. | Data keuangan | Akuntan, Auditor |
 | **Insurance / Risk Pooling** | Asuransi / Pengelolaan Risiko | Mengalihkan risiko keuangan ke pihak penanggung dengan premi. | Aset, jiwa, kesehatan | Perusahaan Asuransi, Reasuransi |
 | **Donating** | Donasi / Hibah | Memberikan dana atau aset tanpa mengharapkan imbalan. | Uang, barang, aset | Individu, Lembaga Sosial, Yayasan |
