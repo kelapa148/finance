@@ -51,3 +51,8 @@
 | **Secondary Private Markets**	| Pasar Sekunder Privat	| Perdagangan kepemilikan aset privat (saham perusahaan, kepemilikan dana private equity) antar investor, tanpa melibatkan emiten asli.	| Saham perusahaan privat, saham karyawan, kepemilikan dana PE | Investor Institusi, [Investor terakreditasi](https://en.wikipedia.org/wiki/Accredited_investor) / Angle Investor, Dana Sekunder, Platform Pasar Sekunder (Forge Global, EquityZen) |
 | **Carbon Credit Trading** |	Perdagangan Kredit Karbon |	Jual-beli izin emisi karbon untuk mendukung keberlanjutan.	| Kredit karbon	| Bursa Karbon (Xpansiv, Climate Impact X) |
 | **Pawnbroking / Collateralized Lending** |	Gadai	| Memberikan pinjaman jangka pendek dengan jaminan barang bergerak (emas, elektronik, kendaraan).	| Barang bergerak (jaminan)	| Pegadaian, Lembaga Gadai Swasta |
+
+### Todo:
+- [x] By Aktivitas
+- [ ] Teori
+- [ ] Solusi dan Implementasi
