@@ -1,4 +1,4 @@
-## _Finance_ Berdasarkan Aktivitas Keuangan
+## _Finance_ Berdasarkan Aktivitasnya.
 
 | **Activity (EN)** | **Aktivitas (ID)** | **Deskripsi** | **Objek** | **Subjek / Penyelenggara** |
 | --- | --- | --- | --- | --- |
