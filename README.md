@@ -2,7 +2,7 @@
 
 | **Activity (EN)** | **Aktivitas (ID)** | **Deskripsi** | **Objek** | **Subjek / Penyelenggara** |
 | --- | --- | --- | --- | --- |
-| **Saving** | Menabung | Menyimpan uang di institusi keuangan untuk tujuan jangka pendek/panjang. | Uang tunai, deposito | Individu, Bank, Koperasi, LPS |
+| **Saving** | Menabung | Menyimpan uang di institusi keuangan untuk tujuan jangka pendek/panjang. | Uang tunai, deposito, cek, bilyet giro | Individu, Bank, Koperasi, LPS |
 | **Lending** | Pemberian Pinjaman | Memberikan dana kepada pihak lain dengan imbal hasil bunga atau bagi hasil. | Uang/modal | Bank, Fintech P2P, Koperasi Syariah |
 | **Borrowing** | Peminjaman | Menerima dana dengan kewajiban mengembalikan + bunga/bagi hasil. | Uang/modal | Individu, Korporasi, Pemerintah |
 | **Investing** | Berinvestasi | Menanam modal dalam aset produktif untuk keuntungan jangka panjang. | Saham, obligasi, properti, reksadana | Investor, Manajer Investasi, Perusahaan Aset |
