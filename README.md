@@ -55,4 +55,5 @@
 ### Todo:
 - [x] By Aktivitas
 - [ ] Teori
+- [ ] Financial Engineering
 - [ ] Solusi dan Implementasi
