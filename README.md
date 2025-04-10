@@ -56,4 +56,5 @@
 - [x] By Aktivitas
 - [ ] Teori
 - [ ] Financial Engineering
+- [x] [Quantitative](https://github.com/kelapa148/finance/blob/main/quantitative.md)
 - [ ] Solusi dan Implementasi
